@@ -6,5 +6,6 @@ public class NEWMain {
         Scanner console = new Scanner(System.in());
         int y = console.nextInt();
         System.out.print (x+y);
+        int u = console.nextInt();
     }
 }
